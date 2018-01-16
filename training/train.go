@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	lda "github.com/flezzfx/lda-golang/lda"
+	lda "github.com/flezzfx/gopher-lda/lda"
 )
 
 var (
