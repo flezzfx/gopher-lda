@@ -1,6 +1,6 @@
 lda-golang
 ==============
-![lda-golang](http://alexander.bre.sk/x/gopher-lda.png " The LDA Golang Logo ")
+![lda-golang](http://alexander.bre.sk/wp-content/uploads/2018/01/687474703a2f2f616c6578616e6465722e6272652e736b2f782f676f706865722d6e657572616c2d736d616c6c2e706e67.png" The LDA Golang Logo ")
 
 # Preface
 
